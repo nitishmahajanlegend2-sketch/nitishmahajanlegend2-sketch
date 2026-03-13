@@ -3,9 +3,12 @@
 I'm a passionate Full-Stack Developer focused on building modern web applications. I love turning complex problems into simple, beautiful, and intuitive designs.
 
 ### 🛠 Tech Stack
-- **Frontend:** React.js, Next.js, HTML5, CSS3, JavaScript (ES6+), TypeScript
-- **Backend:** Node.js, Express, Python
-- **Tools & Platforms:** Git, GitHub, Vercel, Firebase
+- **Frontend:** React.js, Next.js, HTML5, CSS3, JavaScript (ES6+)
+- **Backend:** Node.js, Express,
+- **Tools & Platforms:** Git, GitHub, Vercel, Render, Mongodb
+- **Languages:** Python,Java
+- Also have hands on DSA,networking
+- 
 
 ### 🚀 Featured Projects
 - **[Cloned-Spotify](https://github.com/nitishmahajanlegend2-sketch/Cloned-Spotify)**: A full-featured Spotify clone with a modern UI.
@@ -19,8 +22,6 @@ I'm a passionate Full-Stack Developer focused on building modern web application
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitishmahajanlegend2-sketch&layout=compact&theme=radical)
 
 ### 📫 Let's Connect!
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-username)
-- **Portfolio:** [Your Portfolio Website](https://yourportfolio.com)
-
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/nitish-mahajan-3880052b9?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 ---
 *"The best way to predict the future is to invent it."*
